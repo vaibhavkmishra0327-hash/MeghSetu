@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.production.local
+*.pyc
+.env
+models/*.joblib
